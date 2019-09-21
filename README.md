@@ -11,6 +11,7 @@
  - [Exploring 67 Years of Lego](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Exploring%2067%20Years%20of%20Lego.ipynb)
  - [Generating Keywords for Google Ads](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Generating%20Keywords%20for%20Google%20Ads.ipynb)
  - [Naive Bees - Image Loading and Processing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees%20-%20Image%20Loading%20and%20Processing.ipynb)
+ - [Naive Bees_ Predict Species from Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Niave%20Bees_%20Predict%20Species%20from%20Images.ipynb)
  - [Name Game Gender Prediction with Sound](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Name%20Game%20Gender%20Prediction%20with%20Sound.ipynb)
  - [Predicting Credit Card Approvals](https://github.com/drew026/DataCamp-Projects/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
  - [The Hottest Topics in Machine Learning](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning.ipynb)

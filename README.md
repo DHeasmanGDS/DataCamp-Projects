@@ -15,7 +15,7 @@
  - [Naive Bees - Image Loading and Processing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees%20-%20Image%20Loading%20and%20Processing.ipynb)
  - [Naive Bees_ Predict Species from Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Niave%20Bees_%20Predict%20Species%20from%20Images.ipynb)
  - [Name Game Gender Prediction with Sound](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Name%20Game%20Gender%20Prediction%20with%20Sound.ipynb)
- - [Predicting Credit Card Approvals](https://github.com/drew026/DataCamp-Projects/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
+ - [Predicting Credit Card Approvals](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
  - [The Hottest Topics in Machine Learning](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning.ipynb)
  - [Recreating John Snow's Ghost Map](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Recreating%20John%20Snow's%20Ghost%20Map.ipynb)
  - [TV, Halftime Shows, and the Big Game](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb)

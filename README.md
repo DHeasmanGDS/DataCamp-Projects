@@ -3,6 +3,7 @@
 
  - [A Network Analysis of Game of Thrones](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
  - [A New Era of Data Analysis in Baseball](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)
+ - [ASL Recognition with Deep Learning](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/ASL%20Recognition%20with%20Deep%20Learning.ipynb)
  - [B Testing with Cookie Cats](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/B%20Testing%20with%20Cookie%20Cats.ipynb)
  - [Bad passwords and the NIST guidelines](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Bad%20passwords%20and%20the%20NIST%20guidelines.ipynb)
  - [Bitcoin Cryptocurrency](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Bitcoin%20Cryptocurrency.ipynb)

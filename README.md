@@ -18,6 +18,7 @@
  - [Naive Bees_ Deep Learning with Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees_%20Deep%20Learning%20with%20Images.ipynb)
  - [Name Game Gender Prediction with Sound](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Name%20Game%20Gender%20Prediction%20with%20Sound.ipynb)
  - [Predicting Credit Card Approvals](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
+ - [The GitHub History of the Scala Language](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
  - [The Hottest Topics in Machine Learning](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning.ipynb)
  - [Recreating John Snow's Ghost Map](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Recreating%20John%20Snow's%20Ghost%20Map.ipynb)
  - [TV, Halftime Shows, and the Big Game](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb)

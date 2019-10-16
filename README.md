@@ -12,6 +12,7 @@
  - [Dr. Semmelweis and the Discovery of Handwashing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
  - [Evolution of Linux](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Evolution%20of%20Linux.ipynb)
  - [Exploring 67 Years of Lego](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Exploring%2067%20Years%20of%20Lego.ipynb)
+ - [Finding Movie Similarity From Plot Summaries](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries.ipynb)
  - [Generating Keywords for Google Ads](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Generating%20Keywords%20for%20Google%20Ads.ipynb)
  - [Naive Bees - Image Loading and Processing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees%20-%20Image%20Loading%20and%20Processing.ipynb)
  - [Naive Bees_ Predict Species from Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Niave%20Bees_%20Predict%20Species%20from%20Images.ipynb)

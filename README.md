@@ -14,6 +14,7 @@
  - [Exploring 67 Years of Lego](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Exploring%2067%20Years%20of%20Lego.ipynb)
  - [Finding Movie Similarity From Plot Summaries](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries.ipynb)
  - [Generating Keywords for Google Ads](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Generating%20Keywords%20for%20Google%20Ads.ipynb)
+ - [Give Life Predict Blood Donations](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Give%20Life%20Predict%20Blood%20Donations.ipynb)
  - [Naive Bees - Image Loading and Processing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees%20-%20Image%20Loading%20and%20Processing.ipynb)
  - [Naive Bees_ Predict Species from Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Niave%20Bees_%20Predict%20Species%20from%20Images.ipynb)
  - [Naive Bees_ Deep Learning with Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees_%20Deep%20Learning%20with%20Images.ipynb)

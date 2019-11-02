@@ -26,6 +26,7 @@
  - [The GitHub History of the Scala Language](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)
  - [The Hottest Topics in Machine Learning](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Hottest%20Topics%20in%20Machine%20Learning.ipynb)
  - [Recreating John Snow's Ghost Map](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Recreating%20John%20Snow's%20Ghost%20Map.ipynb)
+ - [Reducing Traffic Mortality in the USA](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Reducing%20Traffic%20Mortality%20in%20the%20USA.ipynb)
  - [TV, Halftime Shows, and the Big Game](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game.ipynb)
  - [The Sharpe Ratio](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Sharpe%20Ratio.ipynb)
  - [Up and Down with the Kardashians](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Up%20and%20Down%20with%20the%20Kardashians.ipynb)

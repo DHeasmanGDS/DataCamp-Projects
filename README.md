@@ -17,6 +17,7 @@
  - [Dr. Semmelweis and the Discovery of Handwashing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)
  - [Evolution of Linux](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Evolution%20of%20Linux.ipynb)
  - [Exploring 67 Years of Lego](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Exploring%2067%20Years%20of%20Lego.ipynb)
+ - [Extract Stock Sentiment Analysis from News Headlines](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Extract%20Stock%20Sentiment%20from%20News%20Headlines.ipynb)
  - [Finding Movie Similarity From Plot Summaries](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries.ipynb)
  - [Generating Keywords for Google Ads](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Generating%20Keywords%20for%20Google%20Ads.ipynb)
  - [Give Life Predict Blood Donations](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Give%20Life%20Predict%20Blood%20Donations.ipynb)

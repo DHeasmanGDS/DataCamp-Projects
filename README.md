@@ -11,6 +11,7 @@
  - [Bitcoin Cryptocurrency](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Bitcoin%20Cryptocurrency.ipynb)
  - [Book Recommendations from Charles Darwin](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Book%20Recommendations%20from%20Charles%20Darwin.ipynb)
  - [Classify Song Genres from Audio Data](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data.ipynb)
+ - [Comparing Cosmetics by Ingredients](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Comparing%20Cosmetics%20by%20Ingredients.ipynb)
  - [Disney Movies and Box Office Success](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Disney%20Movies%20and%20Box%20Office%20Success.ipynb)
  - [Do Left-handed People Really Die Young?](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Do%20Left-handed%20People%20Really%20Die%20Young.ipynb)
  - [Dr. Semmelweis and the Discovery of Handwashing](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing.ipynb)

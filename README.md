@@ -22,6 +22,7 @@
  - [Naive Bees_ Predict Species from Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Niave%20Bees_%20Predict%20Species%20from%20Images.ipynb)
  - [Naive Bees_ Deep Learning with Images](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Naive%20Bees_%20Deep%20Learning%20with%20Images.ipynb)
  - [Name Game Gender Prediction with Sound](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Name%20Game%20Gender%20Prediction%20with%20Sound.ipynb)
+ - [Real-time Insights from Social Media Data](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Real-time%20Insights%20from%20Social%20Media%20Data.ipynb)
  - [Predicting Credit Card Approvals](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/Predicting%20Credit%20Card%20Approvals.ipynb)
  - [The Android App Market on Google Play](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20Android%20App%20Market%20on%20Google%20Play.ipynb)
  - [The GitHub History of the Scala Language](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb)

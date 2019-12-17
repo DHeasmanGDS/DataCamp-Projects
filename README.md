@@ -1,5 +1,5 @@
 # DataCamp-Projects
-## Various projects completed through datacamp.
+## Various projects completed through DataCamp.
 
  - [A Network Analysis of Game of Thrones](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/A%20Network%20Analysis%20of%20Game%20of%20Thrones.ipynb)
  - [A New Era of Data Analysis in Baseball](https://nbviewer.jupyter.org/github/drew026/DataCamp-Projects/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball.ipynb)
